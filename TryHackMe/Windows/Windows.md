@@ -1,7 +1,7 @@
 ## Máquinas Windows
 
-- ### [BLUE](Windows/Blue/Blue.md)
+- ### [BLUE](Blue/Blue.md)
 
-- ### [ICE](Windows/Ice/Ice.md)
+- ### [ICE](Ice/Ice.md)
 
 - ### [BLASTER](Windows/Blaster/Blaster.md)

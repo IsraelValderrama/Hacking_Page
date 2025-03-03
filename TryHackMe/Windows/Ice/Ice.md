@@ -37,7 +37,9 @@ sysinfo | findstr /B /C:"OS"
 Ahora usamos el  `post/multi/recon/local_exploit_suggester` ejecutamos y seleccionamos la que pone `winwos/local/bypassuac_eventvwr` y la configuramos y ejecutamos.
 
 ![image](6.png)
+
 Una vez estemos en el meterpreter usamos el comando `getprivs` para ampliar los permisos.
+
 ![image](7.png)
 
 

@@ -1,7 +1,7 @@
 ## Máquinas Windows
 
-- ### [BLUE](TryHackMe/Windows/Blue/Blue.md)
+- ### [BLUE](Windows/Blue/Blue.md)
 
-- ### [ICE](TryHackMe/Windows/Ice/Ice.md)
+- ### [ICE](Windows/Ice/Ice.md)
 
-- ### [BLASTER](TryHackMe/Windows/Blaster/Blaster.md)
+- ### [BLASTER](Windows/Blaster/Blaster.md)

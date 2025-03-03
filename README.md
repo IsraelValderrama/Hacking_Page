@@ -3,6 +3,6 @@
 
 ## TryHackMe:
 
-- ### [Linux][TryHackMe/Linux/Linux.md]
-- ### [Windows][TryHackMe/Windows/Windows.md]
+- ### [Linux][Linux/Linux.md]
+- ### [Windows][Windows/Windows.md]
 

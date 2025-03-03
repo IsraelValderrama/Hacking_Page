@@ -3,12 +3,6 @@
 
 ## TryHackMe:
 
-
-- ### [BLUE]()
-
-- ### [ICE](TryHackMe/Ice/Ice.md)
-
-- ### BLASTER
-
-- ### KENOBI
+- ### [Linux][TryHackMe/Linux/Linux.md]
+- ### [Windows][TryHackMe/Windows/Windows.md]
 

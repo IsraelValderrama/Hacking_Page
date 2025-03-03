@@ -4,4 +4,4 @@
 
 - ### [ICE](Ice/Ice.md)
 
-- ### [BLASTER](Windows/Blaster/Blaster.md)
+- ### [BLASTER](Blaster/Blaster.md)

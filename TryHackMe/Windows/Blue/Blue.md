@@ -50,6 +50,7 @@ Para ello ponemos `hashdump` y nos devuelve los usuarios con las contraseñas ha
 
 ![image](6.png)
 
+
 Para ver la contraseña en plano ponemos el siguiente comando con `John the Ripper`
 
 ```bash
@@ -68,10 +69,13 @@ Esto es lo que contiene flag1.txt
 
 ![image](9.png)
 
+
+
 Para la segunda flag nos vamos a `C:\\Windows\System32\config` y hacemos `ls` para ver la flag2
 
 
 ![image](10.png)
+
 
 Esto es lo que contiene flag2.txt
 

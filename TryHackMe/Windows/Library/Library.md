@@ -1,3 +1,5 @@
+# Library
+
 ## Escaneo de puertos
 
 ```bash
@@ -5,7 +7,6 @@ nmap -sV -O ip
 ```
 
 ![image](1.png)
-
 
 Vemos que tiene un servicio http y entramos en la pagina y encontramos lo siguiente
 
@@ -44,11 +45,14 @@ Una vez dentro hacemos `ls` y nos encontramos dos archivos uno que se llama `bak
 ## Escalada de privilegios
 
 1. Eliminamos el archivo protegido (`bak.py`). `rm bak.py`
-2.  Creamos un nuevo `bak.py` con un intento fallido de ejecutar un comando en Python.
-```bash
-echo "python -c 'import pty;pty.spawn("/bin/bash")'" > bak.py
-```
-3. Corregir el error escribiendo correctamente el código Python:    
+2. Creamos un nuevo `bak.py` con un intento fallido de ejecutar un comando en Python.
+
+    ```bash
+    echo "python -c 'import pty;pty.spawn("/bin/bash")'" > bak.py
+    ```
+
+3. Corregir el error escribiendo correctamente el código Python:
+
 ```python
 `import pty; pty.spawn("/bin/bash")`    
 ```
